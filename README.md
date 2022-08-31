@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Luciano, a web Full Stack developer with focus on backend</div>  
+### <div align="center">I'm Luciano, a web Backend developer</div>  
   
 
 <br/>  
